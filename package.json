@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Проект на Hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esteselkin/hexlet-js.git"
+  },
+  "author": "Tesla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esteselkin/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/esteselkin/hexlet-js#readme"
+}
